@@ -70,8 +70,6 @@
   max-height: 80vh;
   overflow-x: hidden;
   overflow-scrolling: touch;
-  -webkit-transform: translate3d(0, 0, 0);
-          transform: translate3d(0, 0, 0);
   -webkit-box-flex: 0;
   -webkit-flex: 0 1 auto;
       -ms-flex: 0 1 auto;
